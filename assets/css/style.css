@@ -85,46 +85,25 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* combine benefits lead/brand/cost into one benefits class styling */
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
-.benefit-lead h3 {
+/* style all h3 within benefits class */
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+/* combine all three images into one css style snippet */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* combine all three classes into one style */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
