@@ -1,8 +1,8 @@
 # Project Title
 
-One paragraph of project description goes here.
+This project is a refactor project of a website. I added semantic html tags, combined alot of duplicate css class and selector
 
-## Getting Started
+<!-- ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -11,10 +11,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
-```
+Give examples 
+```-->
 
-### Installing
+<!-- ### Installing
 
 A step by step series of examples that tell you how to get a development environment running.
 
@@ -30,10 +30,10 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+End with an example of getting some data out of the system or using it for a little demo. -->
 
 
-## Built With
+## Tech Stack
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -46,7 +46,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **YOUR NAME** 
+@Didrik Lindberg
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/)
