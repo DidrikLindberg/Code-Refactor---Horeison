@@ -1,6 +1,6 @@
 # Project Title
 
-This project is a refactor project of a website. I added semantic html tags, combined alot of duplicate css class and selector
+This project is a refactor project of a website. I increased the efficiency of the CSS by consolidating the selectors and properties, organized them to follow the semantic structure of the HTML elements, and included comments before each element or section of the page.
 
 <!-- ## Getting Started
 
