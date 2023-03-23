@@ -41,25 +41,28 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://didriklindberg.github.io/Website-Code-Refactor---Horeison/#search-engine-optimization)
 
+## Usage
+Visit the live site and use the navigation bar in the top right corner to navigate to different sections of the app!
+![screengrab of live site](assets/images/Screenshot%202023-03-23%20063536.png)
 
 ## Authors
 
-@Didrik Lindberg
+### @Didrik Lindberg
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+<!-- - [Link to Portfolio Site](#) -->
+- [Link to Github](https://github.com/DidrikLindberg)
+- [Link to LinkedIn](https://www.linkedin.com/in/didrik-lindberg-3b2955148/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+<!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License  -->
 
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
 * Inspiration
-* etc
+* etc -->
